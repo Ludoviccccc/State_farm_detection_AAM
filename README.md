@@ -1,8 +1,9 @@
 # The challenge
 
-The aim of our project is to propose some solutions to the 2016 kaggle challenge named State Farm Distracted Driver Detection. Given some driver images taken inside their cars we would like to predict what they are doing. As described on kaggle web page, the ten classes of behavior to predict are:
+The aim of our project is to propose some solutions to the 2016 kaggle challenge named State Farm Distracted Driver Detection. Given some driver images taken inside their cars we would like to predict what they are doing. 
 
 ![alt text](drivers.png)
+As described on kaggle web page, the ten classes of behavior to predict are:
 * c0: safe driving
 * c1: texting - right
 * c2: talking on the phone - right
