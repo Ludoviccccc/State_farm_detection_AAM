@@ -12,8 +12,10 @@ The aim of our project is to propose some solutions to the 2016 kaggle challenge
 * c7: reaching behind
 * c8: hair and makeup
 * c9: talking to passenger
-<br>
+
+
 ## The Different approachs and proposed architectures
+
 We are given a dataset of 22 434 images taken by 26 drivers, each of them have several images of each class. We also have a csv dataset describing all those informations.
 
 We chose to solve this challenge mainly with deep learning techniques. In order to avoid over-fitting we chose to apply the data augmentation technique to our pictures. It will improve the performances of our networks.
