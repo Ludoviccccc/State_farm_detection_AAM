@@ -2,16 +2,16 @@ The challenge
 
 The aim of our project is to propose some solutions to the 2016 kaggle challenge named State Farm Distracted Driver Detection. Given some driver images taken inside their cars we would like to predict what they are doing. As described on kaggle web page, the ten classes of behavior to predict are:
 
-c0: safe driving
-c1: texting - right
-c2: talking on the phone - right
-c3: texting - left
-c4: talking on the phone - left
-c5: operating the radio
-c6: drinking
-c7: reaching behind
-c8: hair and makeup
-c9: talking to passenger
+* c0: safe driving
+* c1: texting - right
+* c2: talking on the phone - right
+* c3: texting - left
+* c4: talking on the phone - left
+* c5: operating the radio
+* c6: drinking
+* c7: reaching behind
+* c8: hair and makeup
+* c9: talking to passenger
 The Different approachs and proposed architectures
 We are given a dataset of 22 434 images taken by 26 drivers, each of them have several images of each class. We also have a csv dataset describing all those informations.
 
